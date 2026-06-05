@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 transactions = [5000, -2000, 3000, -1000, -500, 7000]
 
@@ -57,6 +58,8 @@ print("Withdrawals List:", withdrawals)
 >>>>>>> 59736abfa11bf98f465f7bb17b97766de850eff4
 =======
 >>>>>>> 59736abfa11bf98f465f7bb17b97766de850eff4
+=======
+>>>>>>> 59736abfa11bf98f465f7bb17b97766de850eff4
 #A teacher has marks of students stored in a list. marks = [78, 45, 92, 35, 88, 40, 99, 56]
 
 # 1. Display all passed students (marks >= 40)
@@ -98,6 +101,9 @@ print("Marks Above 75:", above_75)
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 59736abfa11bf98f465f7bb17b97766de850eff4
+=======
 >>>>>>> 59736abfa11bf98f465f7bb17b97766de850eff4
 =======
 >>>>>>> 59736abfa11bf98f465f7bb17b97766de850eff4
