@@ -1,3 +1,5 @@
+# write a program to input a sentence from user and count the number of special char present in the string
+
 # Input a sentence from the user
 sentence = input("Enter a sentence: ")
 
