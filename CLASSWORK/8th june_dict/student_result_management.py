@@ -1,3 +1,28 @@
+
+'''A school wants to store and manage student marks. 
+student_marks = { 
+"Anuj": 85, 
+"Rahul": 72, 
+"Priya": 91, 
+"Neha": 68, 
+"Amit": 78 
+} 
+The principal asks for the following information: 
+Tasks 
+• Display the marks of Priya.  
+• Display the marks of Amit.  
+• Update Rahul's marks from 72 to 80.  
+• Check whether a student named Rohan exists.  
+• Display all student names.  
+• Display all marks.  
+• Find the highest scorer.  
+• Add a new student: 
+Rohan : 88 
+• Remove a student: 
+Neha 
+• Display all student records. '''
+
+
 student_marks = {
     "Anuj": 85,
     "Rahul": 72,
