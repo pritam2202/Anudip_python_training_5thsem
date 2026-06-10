@@ -1,0 +1,10 @@
+C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps\python3.13.exe "c:/Users/ASUS/Documents/GitHub/Anudip_python_training_5thsem/CLASSWORK/file_handling_10th june/write_operation.py"
+hyuuu
+njn
+jnjj
+
+
+
+
+C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps\python3.13.exe "c:/Users/ASUS/Documents/GitHub/Anudip_python_training_5thsem/CLASSWORK/file_handling_10th june/read_file.py"
+C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps\python3.13.exe "c:/Users/ASUS/Documents/GitHub/Anudip_python_training_5thsem/CLASSWORK/file_handling_10th june/read_file.py"
